@@ -15,12 +15,16 @@ To run the code, simply run the main.py file which will print the empty puzzle a
 
 ### Example:
 Generated Puzzle:
+```
 . . 4 2
 . 4 . 3
 . 1 2 4
 4 2 . .
+```
 Solved Puzzle:
+```
 1 3 4 2
 2 4 1 3
 3 1 2 4
 4 2 3 1
+```
